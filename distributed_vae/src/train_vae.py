@@ -85,3 +85,4 @@ if task.get("index",0)==0:
 # Ignore sample_grid.png (2023-09-27T10:07:10)
 # Explain TF_CONFIG anatomy (2024-06-22T15:56:05)
 # Cache dataset under /tmp (2024-11-30T09:13:17)
+# KL weight warm‑up schedule (2023-04-24T05:51:29)

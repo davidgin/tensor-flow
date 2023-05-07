@@ -67,3 +67,4 @@ if task.get("index",0)==0:
     export=pathlib.Path("exported_vae"); export.mkdir(exist_ok=True)
     model.save(export,include_optimizer=False); print("✓ Saved model to",export)
 # Refactor encoder to GELU (2024-07-29T06:45:27)
+# Add TensorBoard logging (2023-05-07T18:11:18)

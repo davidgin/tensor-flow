@@ -75,3 +75,4 @@ if task.get("index",0)==0:
 # CLI flag for batch size (2025-01-29T18:59:09)
 # Switch recon loss BCE→MSE (2023-06-21T23:10:06)
 # README: multi‑host guidance (2024-02-21T12:04:13)
+# .gitignore TensorBoard logs (2023-05-11T06:02:50)

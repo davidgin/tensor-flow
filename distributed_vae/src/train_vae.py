@@ -18,3 +18,4 @@
 # Add sample_grid.png to .gitignore – auto‑generated on 2024-07-03T05:16:48
 # Document TF_CONFIG anatomy in README – auto‑generated on 2024-10-03T04:54:03
 # Move dataset cache to /tmp for faster I/O – auto‑generated on 2025-03-29T20:59:17
+# Tweak KL weight warm‑up schedule – auto‑generated on 2023-06-16T00:34:46

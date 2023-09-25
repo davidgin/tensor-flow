@@ -76,3 +76,4 @@ if task.get("index",0)==0:
 # Switch recon loss BCE→MSE (2023-06-21T23:10:06)
 # README: multi‑host guidance (2024-02-21T12:04:13)
 # .gitignore TensorBoard logs (2023-05-11T06:02:50)
+# Add GPU Dockerfile (2023-09-26T02:32:14)

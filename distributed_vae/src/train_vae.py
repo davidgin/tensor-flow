@@ -7,3 +7,4 @@
 # Add reconstruction‑loss breakdown to metrics – auto‑generated on 2023-05-11T06:02:50
 # Parameterize batch size via CLI arg – auto‑generated on 2023-10-06T08:13:07
 # Switch reconstruction loss from BCE to MSE – auto‑generated on 2024-06-02T05:00:48
+# Update README with multi‑host Slurm example – auto‑generated on 2023-09-27T10:07:10

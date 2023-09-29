@@ -69,3 +69,4 @@ if task.get("index",0)==0:
 # Refactor encoder to GELU (2024-07-29T06:45:27)
 # Add TensorBoard logging (2023-05-07T18:11:18)
 # Pin tfds version (2023-11-06T06:30:49)
+# Expose LATENT_DIM via env (2023-09-29T10:39:07)

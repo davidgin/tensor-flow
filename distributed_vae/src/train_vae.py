@@ -5,3 +5,4 @@
 # Introduce LATENT_DIM env override – auto‑generated on 2024-08-25T11:46:30
 # Improve launch script: expose CUDA_VISIBLE_DEVICES – auto‑generated on 2024-06-23T13:25:43
 # Add reconstruction‑loss breakdown to metrics – auto‑generated on 2023-05-11T06:02:50
+# Parameterize batch size via CLI arg – auto‑generated on 2023-10-06T08:13:07

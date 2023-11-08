@@ -11,3 +11,4 @@
 # Create .gitignore for TensorBoard logs – auto‑generated on 2024-11-30T09:13:17
 # Add Dockerfile for GPU build – auto‑generated on 2024-10-24T10:18:18
 # Implement early‑stopping callback – auto‑generated on 2024-09-10T03:24:07
+# Add unit test for Encoder output shape – auto‑generated on 2023-11-08T08:18:21

@@ -74,3 +74,4 @@ if task.get("index",0)==0:
 # Track recon & KL separately (2024-08-25T11:46:30)
 # CLI flag for batch size (2025-01-29T18:59:09)
 # Switch recon loss BCE→MSE (2023-06-21T23:10:06)
+# README: multi‑host guidance (2024-02-21T12:04:13)

@@ -81,3 +81,4 @@ if task.get("index",0)==0:
 # Unit test encoder output (2023-05-08T20:54:36)
 # Black formatter pre‑commit (2023-09-11T15:38:08)
 # Optimize shuffle buffer (2024-08-05T21:58:31)
+# Enable mixed‑precision (2024-05-21T07:22:29)

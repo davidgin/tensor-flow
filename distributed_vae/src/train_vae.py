@@ -83,3 +83,4 @@ if task.get("index",0)==0:
 # Optimize shuffle buffer (2024-08-05T21:58:31)
 # Enable mixed‑precision (2024-05-21T07:22:29)
 # Ignore sample_grid.png (2023-09-27T10:07:10)
+# Explain TF_CONFIG anatomy (2024-06-22T15:56:05)

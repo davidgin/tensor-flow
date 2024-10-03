@@ -16,3 +16,4 @@
 # Optimize shuffle buffer size for SSD – auto‑generated on 2023-07-03T02:43:26
 # Enable mixed‑precision training on Ampere GPUs – auto‑generated on 2023-06-29T02:28:15
 # Add sample_grid.png to .gitignore – auto‑generated on 2024-07-03T05:16:48
+# Document TF_CONFIG anatomy in README – auto‑generated on 2024-10-03T04:54:03

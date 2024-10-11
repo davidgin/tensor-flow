@@ -1,2 +1,3 @@
 ...
 # Refactor Encoder: switch to GELU activations – auto‑generated on 2024-07-29T06:45:27
+# Add TensorBoard scalar logging inside custom loop – auto‑generated on 2024-10-11T19:57:53

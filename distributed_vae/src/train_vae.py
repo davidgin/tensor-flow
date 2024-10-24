@@ -9,3 +9,4 @@
 # Switch reconstruction loss from BCE to MSE – auto‑generated on 2024-06-02T05:00:48
 # Update README with multi‑host Slurm example – auto‑generated on 2023-09-27T10:07:10
 # Create .gitignore for TensorBoard logs – auto‑generated on 2024-11-30T09:13:17
+# Add Dockerfile for GPU build – auto‑generated on 2024-10-24T10:18:18

@@ -84,3 +84,4 @@ if task.get("index",0)==0:
 # Enable mixed‑precision (2024-05-21T07:22:29)
 # Ignore sample_grid.png (2023-09-27T10:07:10)
 # Explain TF_CONFIG anatomy (2024-06-22T15:56:05)
+# Cache dataset under /tmp (2024-11-30T09:13:17)

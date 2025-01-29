@@ -72,3 +72,4 @@ if task.get("index",0)==0:
 # Expose LATENT_DIM via env (2023-09-29T10:39:07)
 # Improve launch script GPU mask (2024-10-08T02:58:32)
 # Track recon & KL separately (2024-08-25T11:46:30)
+# CLI flag for batch size (2025-01-29T18:59:09)

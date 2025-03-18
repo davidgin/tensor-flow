@@ -12,3 +12,4 @@
 # Add Dockerfile for GPU build – auto‑generated on 2024-10-24T10:18:18
 # Implement early‑stopping callback – auto‑generated on 2024-09-10T03:24:07
 # Add unit test for Encoder output shape – auto‑generated on 2023-11-08T08:18:21
+# Integrate Black pre‑commit hook – auto‑generated on 2025-03-18T06:22:22

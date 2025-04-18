@@ -1,13 +1,19 @@
-# Distributed Unsupervised VAE (TensorFlow 2)
+# Modular Distributed VAE (TensorFlow 2)
 
-Train a Variational Auto‑Encoder on MNIST using
-`tf.distribute.MultiWorkerMirroredStrategy`.
+This example now includes a local `data/` folder for caching TFDS.
 
-## Local smoke‑test
+## Quick start
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+cd distributed_vae
 ./launch_multiworker.sh
 ```
 
-Worker‑0 writes `exported_vae/` when training ends.
+**Pre‑download** MNIST into `data/` (optional):
+```bash
+python -c "import tensorflow_datasets as tfds; tfds.load('mnist', data_dir='distributed_vae/data')"
+```
+
+Worker 0 writes `exported_vae/` when done.

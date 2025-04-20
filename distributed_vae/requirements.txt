@@ -1,2 +1,6 @@
 tensorflow==2.16.1
 tensorflow-datasets==4.9.4
+# for the tests
+numpy>=1.23.0
+pytest>=7.0
+
